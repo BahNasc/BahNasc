@@ -1,16 +1,17 @@
-### Hi there 👋
+### Oiie! Eu sou a Bárbara do Nascimento
 
-<!--
-**BahNasc/BahNasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Atualmente estudo no Instituto Federal de Santa Catarina (IFSC) no curso integrado de Informática.
+- 🚀 Esse perfil é apenas para o curso técnico.
+- 🩺 Quero cursar medicina, mas atualmente no ensino médio estudo programação.
+ <hr>
+   <div>
+  <a href="https://github.com/BahNasc">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BahNasc&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahNasc&layout=compact&langs_count=16&theme=neon"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Bah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
