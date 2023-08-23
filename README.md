@@ -2,7 +2,7 @@
 
 - ⚡ Atualmente estudo no Instituto Federal de Santa Catarina (IFSC) no curso integrado de Informática.
 - 🚀 Esse perfil é apenas para o curso técnico.
-- 🩺 Quero cursar medicina, mas atualmente no ensino médio estudo programação.
+- 🧬 Quero cursar medicina, mas atualmente no ensino médio estudo programação.
  <hr>
    <div>
   <a href="https://github.com/BahNasc">
