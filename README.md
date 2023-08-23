@@ -1,7 +1,5 @@
 ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Oiii! Eu sou a Bárbara do Nascimento
- <div>
-  <img src="https://media1.giphy.com/media/tIeCLkB8geYtW/200.webp?cid=ecf05e47q890uoau3yiq7h5avdjkxbqyhyooc4wgya375zdk&ep=v1_gifs_search&rid=200.webp&ct=g" alt="bele" align="right" height="80" widht="60">
-</div>
+ 
 - ⚡ Atualmente estudo no Instituto Federal de Santa Catarina (IFSC) no curso integrado de Informática.<br>
 - 🚀 Esse perfil é apenas para o curso técnico.<br>
 - 🧬 Quero cursar medicina, mas atualmente no ensino médio estudo programação.
