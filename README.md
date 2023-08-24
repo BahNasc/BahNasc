@@ -10,7 +10,9 @@
 </div>
   <a href="https://github.com/BahNasc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BahNasc&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+ <img height="130" widht="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahNasc&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
  
+
 <div style="display: inline_block">
 
  ### Minhas Tecnologias
