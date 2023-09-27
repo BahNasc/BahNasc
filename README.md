@@ -2,7 +2,7 @@
  
 - ⚡ Atualmente estudo no Instituto Federal de Santa Catarina (IFSC) no curso integrado de Informática.<br>
 - 🚀 Esse perfil é apenas para o curso técnico.<br>
-- 🧬 Quero cursar medicina, mas atualmente no ensino médio estudo programação.
+- 🧬 Quero cursar medicina (nada muito parecido com TI), mas atualmente no ensino médio estudo programação.
 <hr>
 <div>
    <div>
